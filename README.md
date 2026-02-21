@@ -103,12 +103,12 @@ To add screenshots:
 3. Use the following markdown format:
 
 ```
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./assets/image.png)
 ```
 
 Example:
 
-![App Screenshot](./assets/screenshot.png)
+![App Screenshot](./assets/image.png)
 
 ---
 
