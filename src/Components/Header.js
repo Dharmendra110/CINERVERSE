@@ -6,7 +6,7 @@ export const Header = () => {
   const navigate = useNavigate();
   const [hidden, setHidden] = useState(true);
   const [darkmode, setDarkmode] = useState(
-    JSON.parse(localStorage.getItem("darkmode")) || false
+    JSON.parse(localStorage.getItem("darkmode")) || false,
   );
 
   const activeClass =
@@ -217,7 +217,7 @@ export const Header = () => {
                     isActive ? activeClass : inActiveClass
                   }
                 >
-                  Upcoming
+                  Upcoming2
                 </NavLink>
               </li>
             </ul>
