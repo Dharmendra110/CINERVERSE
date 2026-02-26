@@ -108,7 +108,7 @@ To add screenshots:
 
 Example:
 
-![App Screenshot](./assets/image.png)
+![App Screenshot](src/assets/image.png)
 
 ---
 
