@@ -217,7 +217,7 @@ export const Header = () => {
                     isActive ? activeClass : inActiveClass
                   }
                 >
-                  Upcoming2
+                  Upcoming
                 </NavLink>
               </li>
             </ul>
